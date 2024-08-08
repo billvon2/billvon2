@@ -1,4 +1,6 @@
-## Hi there 👋
+Hello all
+
+I am Bill von Novak, working mainly in power systems and embedded controllers.  In the past I've worked on wireless power transmission, UAV control, motor drives, renewable energy systems and battery control systems.
 
 <!--
 **billvon2/billvon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
